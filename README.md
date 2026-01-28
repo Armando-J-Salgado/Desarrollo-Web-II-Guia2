@@ -70,7 +70,7 @@ src/
 
 ## 🌐 Proyecto Desplegado
 
-[Enlace a la aplicación en línea - *próximamente*]
+[[Enlace a la aplicación en línea](https://deluxe-cheesecake-afa145.netlify.app/)]
 
 ## 📚 Tecnologías Utilizadas
 
